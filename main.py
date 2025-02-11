@@ -5,7 +5,7 @@ from classes.GraphDesign import Design
 
 path = os.getcwd()
 file = path + "/testfile.csv"
-os.environ["PATH"] += os.pathsep + r'D:\Users\lorenzoluc\Downloads\windows_10_cmake_Release_Graphviz-12.2.1-win64\Graphviz-12.2.1-win64/bin/'
+#os.environ["PATH"] += os.pathsep + r'D:\Users\lorenzoluc\Downloads\windows_10_cmake_Release_Graphviz-12.2.1-win64\Graphviz-12.2.1-win64/bin/'
 
 
 def app():
